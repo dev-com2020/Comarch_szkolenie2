@@ -25,5 +25,5 @@ if a.find("!") >= 0 or a.find("@") >= 0 or a.find("#") >= 0:
     print("Oj!Znak specjalny!")
 
 # print("Witaj!".find("!"))
-x = ascii("Mam na imię Tomek")
+x = ascii("Mam na imię Jaanek")
 print(x)
