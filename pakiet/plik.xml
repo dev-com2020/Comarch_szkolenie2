@@ -1,0 +1,12 @@
+<znajomi>
+    <osoba>
+        <imie atrybut="szef">Zygmunt</imie>
+        <email>1@1.pl</email>
+    </osoba>
+    <osoba>
+        <imie atrybut="kolega">Andrzej</imie>
+        <email>2@2.pl</email>
+    </osoba>
+</znajomi>
+
+

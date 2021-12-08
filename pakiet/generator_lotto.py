@@ -54,3 +54,5 @@ print("Zera: {}\nJedynki:{}\nDwójki:{}\nTrójki:{}\nCzwórki:{}\nPiątki:{}\nSz
 print("^" * 30)
 print("Zainwestowałeś: {} złotych, a wygrałeś {} złotych. Twój bilans to {} zł.".format(inwest,
                                                                                         wygrana, wygrana - inwest))
+
+input("Wciśnij ENTER aby zakończyć!")
